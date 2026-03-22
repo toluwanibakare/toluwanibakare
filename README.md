@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://tmb.it.com">Portfolio</a>
   ·
-  <a href="https://www.linkedin.com/in/toluwani-bakare-49910324a">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/toluwanibakare">LinkedIn</a>
   ·
   <a href="https://x.com/0xtmb">X</a>
   ·
@@ -63,12 +63,12 @@ Growth and Visibility Systems
 ## Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19" />
-  <img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true&background=0B0F19" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toluwanibakare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19" />
+  <img src="https://streak-stats.demolab.com/?user=toluwanibakare&theme=tokyonight&hide_border=true&background=0B0F19" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toluwanibakare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19" />
 </p>
 
 ---
